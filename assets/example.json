@@ -1,0 +1,6 @@
+{
+    "example_key": "example_value",
+    "nested": {
+        "key": "value"
+    }
+}
